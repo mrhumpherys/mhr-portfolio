@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+:root {
+  --spacing-two: calc(1rem);
+  --spacing-five: calc(2.5rem);
+}
+.my-2 {
+  margin-top: var(--spacing-two);
+  margin-bottom: var(--spacing-two);
+}
+.my-5 {
+  margin-top: var(--spacing-five);
+  margin-bottom: var(--spacing-five);
+}
+main {
+	margin: 0 auto;
+	max-width: 90%;
+  padding: 50px 30px;
+}
