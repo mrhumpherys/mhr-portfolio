@@ -2,12 +2,12 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 # Description
-React Portfolio is a single page application built using React and Bootstrap to show off my projects and share my resume and contact info. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the live site [here](https://evening-basin-48189.herokuapp.com/).
+React Portfolio is a single page application built using React and Bootstrap to show off my projects and share my resume and contact info. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the live site [here](http://mrhumpherys.github.io/mhr-portfolio).
 
 ![image source code](src/assets/img/portfolio.png)
 
 # Usage
-The live application can be found [here](https://evening-basin-48189.herokuapp.com/).
+The live application can be found [here](http://mrhumpherys.github.io/mhr-portfolio).
 
 ## Available Scripts
 
