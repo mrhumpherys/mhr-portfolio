@@ -3,8 +3,8 @@ import React from 'react';
 function Header(props) {
     const tabs =['About', 'Portfolio', 'Contact', 'Resume']
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <a className="navbar-brand" href="/">Michael Humpherys</a>
+        <nav className="navbar navbar-expand-lg green">
+            <a className="navbar-brand green" href="/">Michael Humpherys</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
@@ -18,7 +18,7 @@ function Header(props) {
                         // the current page is set through the handlePageChange props.
                         onClick={() => props.setCurrentPage(tab)}
                         className={
-                        props.currentPage === tab ? 'nav-link active' : 'nav-link'
+                        props.currentPage === tab ? 'nav-link active green' : 'nav-link green'
                         }
                     >
                         {tab}

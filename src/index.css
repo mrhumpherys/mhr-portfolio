@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f5;
 }
 
 code {
@@ -14,6 +15,9 @@ code {
 :root {
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
+  --primary-color: #5cdb95;
+  --secondary-color: #05386b;
+  
 }
 .my-2 {
   margin-top: var(--spacing-two);
@@ -27,4 +31,29 @@ main {
 	margin: 0 auto;
 	max-width: 90%;
   padding: 50px 30px;
+}
+.navbar {
+  background-color: var(--secondary-color)
+}
+.green {
+  text-decoration: none;
+  color: var(--primary-color)
+}
+.blue {
+  color: var(--secondary-color)
+}
+
+.mybtn {
+  background-color: var(--secondary-color);
+  color: var(--primary-color)
+}
+.myfoot {
+  background-color: var(--secondary-color);
+  height: 7%;
+}
+.mycard {
+  background-color: var(--secondary-color);
+}
+.navbar-light {
+  color: var(--primary-color)
 }

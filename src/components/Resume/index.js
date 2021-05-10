@@ -4,7 +4,7 @@ import React from  'react';
 function Resume() {
     return (
         <div className="row justify-content-left">
-            <div className="col-md-9">
+            <div className="col-md-9 blue">
                 <h1>Resume</h1>
                 <p>Download my resume <a href="https://drive.google.com/file/d/1g0VVY3DBlvMaZ6lb-d6QmFTQCwBAYGe6/view?usp=sharing">here</a>.</p>
                 <h2>Front-end Proficiencies</h2>

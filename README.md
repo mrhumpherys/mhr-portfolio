@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+# Description
+React Portfolio is a single page application built using React and Bootstrap to show off my projects and share my resume and contact info. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the live site [here](https://evening-basin-48189.herokuapp.com/).
+
+![image source code](src/assets/img/portfolio.png)
+
+# Usage
+The live application can be found [here](https://evening-basin-48189.herokuapp.com/).
 
 ## Available Scripts
 
@@ -39,7 +46,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -68,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# License
+This project is covered by the [MIT](https://spdx.org/licenses/MIT.html) license.
+
+# Questions
+Feel free to contact me with any questions at my email or GitHub. [Email](mailto:mrhumpherys@gmail.com), [GitHub](https://github.com/mrhumpherys)
