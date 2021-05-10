@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mhr-portfolio/static/css/main.c527d569.chunk.css",
+    "main.js": "/mhr-portfolio/static/js/main.ebab1fe5.chunk.js",
+    "main.js.map": "/mhr-portfolio/static/js/main.ebab1fe5.chunk.js.map",
+    "runtime-main.js": "/mhr-portfolio/static/js/runtime-main.82c5d0aa.js",
+    "runtime-main.js.map": "/mhr-portfolio/static/js/runtime-main.82c5d0aa.js.map",
+    "static/js/2.a6adf488.chunk.js": "/mhr-portfolio/static/js/2.a6adf488.chunk.js",
+    "static/js/2.a6adf488.chunk.js.map": "/mhr-portfolio/static/js/2.a6adf488.chunk.js.map",
+    "static/js/3.72f53126.chunk.js": "/mhr-portfolio/static/js/3.72f53126.chunk.js",
+    "static/js/3.72f53126.chunk.js.map": "/mhr-portfolio/static/js/3.72f53126.chunk.js.map",
+    "index.html": "/mhr-portfolio/index.html",
+    "static/css/main.c527d569.chunk.css.map": "/mhr-portfolio/static/css/main.c527d569.chunk.css.map",
+    "static/js/2.a6adf488.chunk.js.LICENSE.txt": "/mhr-portfolio/static/js/2.a6adf488.chunk.js.LICENSE.txt",
+    "static/media/Michael Humpherys Resume 2020.pdf": "/mhr-portfolio/static/media/Michael Humpherys Resume 2020.7a1d533f.pdf",
+    "static/media/Start.png": "/mhr-portfolio/static/media/Start.3199f462.png",
+    "static/media/bored.jpeg": "/mhr-portfolio/static/media/bored.60e863d1.jpeg",
+    "static/media/hero.jpg": "/mhr-portfolio/static/media/hero.372e90fb.jpg",
+    "static/media/portfolio.png": "/mhr-portfolio/static/media/portfolio.c0f6102a.png",
+    "static/media/run-buddy.png": "/mhr-portfolio/static/media/run-buddy.8f06f9df.png",
+    "static/media/sports.png": "/mhr-portfolio/static/media/sports.18692eb6.png",
+    "static/media/weather2.png": "/mhr-portfolio/static/media/weather2.e5f0c326.png",
+    "static/media/workday1.png": "/mhr-portfolio/static/media/workday1.16b34742.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c5d0aa.js",
+    "static/js/2.a6adf488.chunk.js",
+    "static/css/main.c527d569.chunk.css",
+    "static/js/main.ebab1fe5.chunk.js"
+  ]
+}
