@@ -3,6 +3,12 @@ import React from 'react';
 
 const projects = [
     {
+        name: 'SneakerBay',
+        liveUrl: 'https://sneakerbay.herokuapp.com/',
+        gitUrl: 'https://github.com/mrhumpherys/sneakerBay',
+        img: 'sneakerbay.png'
+    },
+    {
         name: 'Sports Buzz',
         liveUrl: 'https://sports-buzz.herokuapp.com/',
         gitUrl: 'https://github.com/mrhumpherys/social-sports',
@@ -30,11 +36,6 @@ const projects = [
         liveUrl: 'https://mrhumpherys.github.io/javascript-quiz/',
         gitUrl: 'https://github.com/mrhumpherys/javascript-quiz',
         img: 'Start.png'
-    },{
-        name: 'Run Buddy',
-        liveUrl: 'http://mrhumpherys.github.io/run-buddy',
-        gitUrl: 'https://github.com/mrhumpherys/run-buddy',
-        img: 'run-buddy.png'
     },
 ]
 
@@ -57,12 +58,14 @@ function Project() {
                             <img className="card-img-top" src={require(`../../assets/img/${project.img}`).default} alt={project.name}></img>
                             <div className="card-body">
                                 
-                                <a href={project.liveUrl} className="btn mr-5 green">{project.name}</a>
+                                <a href={project.liveUrl} className="btn mr-5 green" rel="noreferrer" target="_blank">{project.name}</a>
                                 <a
                                     className="btn btn-link btn-floating btn-lg text-light m-1 ml-5"
                                     href={project.gitUrl}
                                     role="button"
                                     data-mdb-ripple-color="dark"
+                                    rel="noreferrer"
+                                    target="_blank"
                                     ><i className="fab fa-github"></i>
                                 </a>
                             </div>

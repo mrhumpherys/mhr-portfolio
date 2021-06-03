@@ -4,7 +4,7 @@ function Header(props) {
     const tabs =['About', 'Portfolio', 'Contact', 'Resume']
     return (
         <nav className="navbar navbar-expand-lg green">
-            <a className="navbar-brand green" href="/">Michael Humpherys</a>
+            <a className="navbar-brand green" href="#about" onClick={() => props.setCurrentPage("About")}>Michael Humpherys</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
